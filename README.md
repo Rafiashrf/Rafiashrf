@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafiashrf
+- 👋 Hi, I’m Rafi 
 - 👀 I’m interested in Tech andBusiness 
 - 🌱 I’m currently learning CS and Management 
 - 💞️ I’m looking to collaborate on Rafi@amsadat.net
